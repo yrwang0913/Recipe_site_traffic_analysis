@@ -9,8 +9,11 @@ Tasty Bytes is an online recipe search engine that displays a variety of recipes
 Our analysis is divided into four parts:
 
 Part I: Data Cleaning and Validation
+
 Part II: Metrics and Exploratory Data Analysis (EDA)
+
 Part III: Machine Learning Model Development
+
 Part IV: Model Evaluation and Decision
 
 
