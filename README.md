@@ -1,4 +1,6 @@
 # Recipe_site_traffic_analysis
+Please [click me](https://nbviewer.org/github/yrwang0913/Recipe_site_traffic_analysis/blob/main/Recipe_site_traffic_analysis.ipynb) to see the project.
+
 Skills: Business strategy, business metrics, communications, data validation, data visualization, data manipulation, statistical test, supervised machine learning, model selections, feature engineering, hyperparmeter tunings.
 
 ## Introduction
